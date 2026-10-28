@@ -21,7 +21,7 @@ Project Link: [Paste Task 2 Link Here] https://github.com/mdrashidbodi786-stack/
  Objective: Built a supervised machine learning classification model to predict categorical outcomes.
  Tools Used: Scikit-Learn, One-Hot Encoding, Train-Test Splitting.
  Key Insights: Trained a Decision Tree model achieving strong predictive accuracy (~81%), evaluated rigorously using a classification report and     a confusion matrix heatmap.
- Project Link: [Paste Task 3 Link Here]
+ Project Link: [Paste Task 3 Link Here] https://github.com/mdrashidbodi786-stack/ProdigyInfoTech-Data-Science-internship/blob/main/task%203.ipynb
 
  Task 4: Social Media Sentiment Analysis
  Objective: Analyzed and visualized public opinion and sentiment patterns from text data.

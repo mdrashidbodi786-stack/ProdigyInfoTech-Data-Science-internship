@@ -1,4 +1,4 @@
-# ProdigyInfoTech-Data-Science-internship
+ ProdigyInfoTech-Data-Science-internship
 I mastered data cleaning and EDA with Pandas/Seaborn, built and evaluated Decision Tree models using Scikit-Learn, and applied NLP via TextBlob for sentiment analysis. Additionally, I analyzed temporal and geospatial datasets to uncover traffic patterns, successfully completing a comprehensive end-to-end data science internship
 
 
@@ -33,7 +33,7 @@ Project Link: [Paste Task 2 Link Here] https://github.com/mdrashidbodi786-stack/
  Objective: Analyzed traffic accident patterns related to road conditions, weather, and time of day.
  Tools Used: Datetime Feature Extraction, Geographic Scatter Plotting.
  Key Insights: Identified peak accident frequency spikes during morning and evening rush hours (7–9 AM and 4–6 PM) and mapped high-density           spatial clustering coordinates.
- Project Link: [Paste Task 5 Link Here]
+ Project Link: [Paste Task 5 Link Here] https://github.com/mdrashidbodi786-stack/ProdigyInfoTech-Data-Science-internship/blob/main/task%205.ipynb
 
 
 

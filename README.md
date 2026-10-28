@@ -15,7 +15,7 @@ Key Insights: Generated histograms and bar charts to identify population distrib
 Objective: Cleaned raw datasets and uncovered survival patterns based on passenger attributes.
 Tools Used: Pandas, Data Imputation, Seaborn.
 Key Insights: Discovered strong statistical correlations showing that female passengers, first-class ticket holders, and higher fare brackets had significantly higher survival rates.
-Project Link: [Paste Task 2 Link Here]
+Project Link: [Paste Task 2 Link Here] https://github.com/mdrashidbodi786-stack/ProdigyInfoTech-Data-Science-internship/blob/main/task%202.ipynb
 
  Task 3: Decision Tree Classifier (Predictive Modeling)
  Objective: Built a supervised machine learning classification model to predict categorical outcomes.

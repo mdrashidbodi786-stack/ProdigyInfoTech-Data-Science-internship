@@ -9,7 +9,7 @@ Below is an overview of the 5 tasks completed in this portfolio, along with dire
  Task 1: Population Data Visualization
 Objective: Explored and visualized demographic trends and population metrics.
 Tools Used: Python, Pandas, Matplotlib, Seaborn.
-Key Insights: Generated histograms and bar charts to identify population distribution patterns, density clusters, and outliers across datasets. Project Link: [Paste Task 1 Link Here] 
+Key Insights: Generated histograms and bar charts to identify population distribution patterns, density clusters, and outliers across datasets. Project Link: [Paste Task 1 Link Here] https://github.com/mdrashidbodi786-stack/ProdigyInfoTech-Data-Science-internship/blob/main/task1.ipynb
 
  Task 2: Titanic Data Cleaning & Exploratory Data Analysis (EDA)
 Objective: Cleaned raw datasets and uncovered survival patterns based on passenger attributes.
